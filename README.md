@@ -32,3 +32,7 @@ and error-prone.
 - Post-patching validation
 - Incident root cause analysis
 - Operational risk reporting
+
+## Dataset Note
+Due to repository size limits, a representative sample of the Windows Event Logs
+is included. The full dataset is available upon request.
